@@ -24,7 +24,7 @@ import { Link, Link as RouterLink } from "react-router-dom";
 import { logoPath } from "./path";
 import login_image from "../../assets/login_image.png";
 import heart from "../../assets/heart.png";
-import shopping_bag from "../../assets/Shopping_bag.png";
+import shopping_bag from "../../assets/shopping_bag.png";
 import search from "../../assets/search.png";
 import "./Navbar.css";
 import Login from "../loginComp/login";
